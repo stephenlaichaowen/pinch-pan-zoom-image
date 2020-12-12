@@ -1,0 +1,21 @@
+{
+  "name": "image-pan-pinch-zoom",
+  "version": "1.0.0",
+  "description": "A javascript library to apply pan, pinch and zoom on an image bound a container box.",
+  "main": "touchScriptController.js",
+  "scripts": {
+    "dev": "live-server --port=8080",
+    "github": "git add . && git commit -m 'commit' && git push origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenlaichaowen/pinch-pan-zoom-image.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenlaichaowen/pinch-pan-zoom-image/issues"
+  },
+  "homepage": "https://github.com/stephenlaichaowen/pinch-pan-zoom-image#readme"
+}
